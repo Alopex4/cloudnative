@@ -19,6 +19,7 @@ func main() {
 
 	// fmt.Print("hello")
 	fmt.Println(fib(7))
+	fmt.Println(fib(10))
 }
 
 // fib sequence
